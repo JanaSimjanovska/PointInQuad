@@ -1,0 +1,15 @@
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Helpers\bin\Debug\net6.0\QuadrilateralExercise.Helpers.deps.json
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Helpers\bin\Debug\net6.0\QuadrilateralExercise.Helpers.dll
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Helpers\bin\Debug\net6.0\QuadrilateralExercise.Helpers.pdb
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Helpers\obj\Debug\net6.0\QuadrilateralExercise.Helpers.csproj.AssemblyReference.cache
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Helpers\obj\Debug\net6.0\QuadrilateralExercise.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Helpers\obj\Debug\net6.0\QuadrilateralExercise.Helpers.AssemblyInfoInputs.cache
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Helpers\obj\Debug\net6.0\QuadrilateralExercise.Helpers.AssemblyInfo.cs
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Helpers\obj\Debug\net6.0\QuadrilateralExercise.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Helpers\obj\Debug\net6.0\QuadrilateralExercise.Helpers.dll
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Helpers\obj\Debug\net6.0\refint\QuadrilateralExercise.Helpers.dll
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Helpers\obj\Debug\net6.0\QuadrilateralExercise.Helpers.pdb
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Helpers\obj\Debug\net6.0\ref\QuadrilateralExercise.Helpers.dll
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Helpers\bin\Debug\net6.0\QuadrilateralExercise.Domain.dll
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Helpers\bin\Debug\net6.0\QuadrilateralExercise.Domain.pdb
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Helpers\obj\Debug\net6.0\QuadrilateralExercise.Helpers.csproj.CopyComplete

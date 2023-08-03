@@ -1,0 +1,12 @@
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Domain\bin\Debug\net6.0\QuadrilateralExercise.Domain.deps.json
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Domain\bin\Debug\net6.0\QuadrilateralExercise.Domain.dll
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Domain\bin\Debug\net6.0\QuadrilateralExercise.Domain.pdb
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Domain\obj\Debug\net6.0\QuadrilateralExercise.Domain.csproj.AssemblyReference.cache
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Domain\obj\Debug\net6.0\QuadrilateralExercise.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Domain\obj\Debug\net6.0\QuadrilateralExercise.Domain.AssemblyInfoInputs.cache
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Domain\obj\Debug\net6.0\QuadrilateralExercise.Domain.AssemblyInfo.cs
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Domain\obj\Debug\net6.0\QuadrilateralExercise.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Domain\obj\Debug\net6.0\QuadrilateralExercise.Domain.dll
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Domain\obj\Debug\net6.0\refint\QuadrilateralExercise.Domain.dll
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Domain\obj\Debug\net6.0\QuadrilateralExercise.Domain.pdb
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Domain\obj\Debug\net6.0\ref\QuadrilateralExercise.Domain.dll

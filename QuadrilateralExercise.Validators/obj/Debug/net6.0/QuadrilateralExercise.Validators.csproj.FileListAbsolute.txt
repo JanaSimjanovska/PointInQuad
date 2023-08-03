@@ -1,0 +1,17 @@
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Validators\bin\Debug\net6.0\QuadrilateralExercise.Validators.deps.json
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Validators\bin\Debug\net6.0\QuadrilateralExercise.Validators.dll
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Validators\bin\Debug\net6.0\QuadrilateralExercise.Validators.pdb
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Validators\bin\Debug\net6.0\QuadrilateralExercise.Helpers.dll
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Validators\bin\Debug\net6.0\QuadrilateralExercise.Helpers.pdb
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Validators\obj\Debug\net6.0\QuadrilateralExercise.Validators.csproj.AssemblyReference.cache
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Validators\obj\Debug\net6.0\QuadrilateralExercise.Validators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Validators\obj\Debug\net6.0\QuadrilateralExercise.Validators.AssemblyInfoInputs.cache
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Validators\obj\Debug\net6.0\QuadrilateralExercise.Validators.AssemblyInfo.cs
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Validators\obj\Debug\net6.0\QuadrilateralExercise.Validators.csproj.CoreCompileInputs.cache
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Validators\obj\Debug\net6.0\QuadrilateralExercise.Validators.csproj.CopyComplete
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Validators\obj\Debug\net6.0\QuadrilateralExercise.Validators.dll
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Validators\obj\Debug\net6.0\refint\QuadrilateralExercise.Validators.dll
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Validators\obj\Debug\net6.0\QuadrilateralExercise.Validators.pdb
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Validators\obj\Debug\net6.0\ref\QuadrilateralExercise.Validators.dll
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Validators\bin\Debug\net6.0\QuadrilateralExercise.Domain.dll
+C:\Users\jana.simjanovska\Desktop\Exercises\QuadrilateralExercise.Validators\bin\Debug\net6.0\QuadrilateralExercise.Domain.pdb

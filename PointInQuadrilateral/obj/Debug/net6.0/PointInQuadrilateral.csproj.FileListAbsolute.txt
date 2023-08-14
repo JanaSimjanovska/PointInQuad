@@ -1,0 +1,15 @@
+C:\Users\jana.simjanovska\Desktop\Take2\PointInQuadrilateral\bin\Debug\net6.0\PointInQuadrilateral.exe
+C:\Users\jana.simjanovska\Desktop\Take2\PointInQuadrilateral\bin\Debug\net6.0\PointInQuadrilateral.deps.json
+C:\Users\jana.simjanovska\Desktop\Take2\PointInQuadrilateral\bin\Debug\net6.0\PointInQuadrilateral.runtimeconfig.json
+C:\Users\jana.simjanovska\Desktop\Take2\PointInQuadrilateral\bin\Debug\net6.0\PointInQuadrilateral.dll
+C:\Users\jana.simjanovska\Desktop\Take2\PointInQuadrilateral\bin\Debug\net6.0\PointInQuadrilateral.pdb
+C:\Users\jana.simjanovska\Desktop\Take2\PointInQuadrilateral\obj\Debug\net6.0\PointInQuadrilateral.csproj.AssemblyReference.cache
+C:\Users\jana.simjanovska\Desktop\Take2\PointInQuadrilateral\obj\Debug\net6.0\PointInQuadrilateral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jana.simjanovska\Desktop\Take2\PointInQuadrilateral\obj\Debug\net6.0\PointInQuadrilateral.AssemblyInfoInputs.cache
+C:\Users\jana.simjanovska\Desktop\Take2\PointInQuadrilateral\obj\Debug\net6.0\PointInQuadrilateral.AssemblyInfo.cs
+C:\Users\jana.simjanovska\Desktop\Take2\PointInQuadrilateral\obj\Debug\net6.0\PointInQuadrilateral.csproj.CoreCompileInputs.cache
+C:\Users\jana.simjanovska\Desktop\Take2\PointInQuadrilateral\obj\Debug\net6.0\PointInQuadrilateral.dll
+C:\Users\jana.simjanovska\Desktop\Take2\PointInQuadrilateral\obj\Debug\net6.0\refint\PointInQuadrilateral.dll
+C:\Users\jana.simjanovska\Desktop\Take2\PointInQuadrilateral\obj\Debug\net6.0\PointInQuadrilateral.pdb
+C:\Users\jana.simjanovska\Desktop\Take2\PointInQuadrilateral\obj\Debug\net6.0\PointInQuadrilateral.genruntimeconfig.cache
+C:\Users\jana.simjanovska\Desktop\Take2\PointInQuadrilateral\obj\Debug\net6.0\ref\PointInQuadrilateral.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xdI8FoNoy4pPrDHfmaxbKk5U9xsV/Sryi+ODSiGomJVLr8yCulI0abgYvJRTC7xIv8VNQDpVFZG+hXd2chN3eg==",
+  "dgSpecHash": "e4KzUFkUWbHObFjk8AwqUSWgCZgGYL2mfnUHzUuHK71bHPKH8FFLaMc3fEAtUCgIIjtFBxcsmVqPwIdt6x4IaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jana.simjanovska\\Desktop\\Take2\\PointInQuadrilateral\\PointInQuadrilateral.csproj",
+  "projectFilePath": "C:\\Users\\jana.simjanovska\\Desktop\\PointInQuad\\PointInQuadrilateral\\PointInQuadrilateral.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

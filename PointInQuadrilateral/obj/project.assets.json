@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jana.simjanovska\\Desktop\\Take2\\PointInQuadrilateral\\PointInQuadrilateral.csproj",
+      "projectUniqueName": "C:\\Users\\jana.simjanovska\\Desktop\\PointInQuad\\PointInQuadrilateral\\PointInQuadrilateral.csproj",
       "projectName": "PointInQuadrilateral",
-      "projectPath": "C:\\Users\\jana.simjanovska\\Desktop\\Take2\\PointInQuadrilateral\\PointInQuadrilateral.csproj",
+      "projectPath": "C:\\Users\\jana.simjanovska\\Desktop\\PointInQuad\\PointInQuadrilateral\\PointInQuadrilateral.csproj",
       "packagesPath": "C:\\Users\\jana.simjanovska\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jana.simjanovska\\Desktop\\Take2\\PointInQuadrilateral\\obj\\",
+      "outputPath": "C:\\Users\\jana.simjanovska\\Desktop\\PointInQuad\\PointInQuadrilateral\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jana.simjanovska\\AppData\\Roaming\\NuGet\\NuGet.Config",
